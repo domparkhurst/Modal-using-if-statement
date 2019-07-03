@@ -1,5 +1,5 @@
-For this project I learnt about the if statement and the DOM.
+The code hides the 'Open Modal' button on click and opens a modal window with a close button.
 
-I had to use an if statement to hide the 'Open modal' button when clicked and then show the modal, plus the new close button.
+When users click the close button the modal disappears and loads the original 'Open Modal' button.
 
-The second problem was to hide the close button, modal and show the original button again, which was solved using an if statement. 
+Each if statement changes the style of various elements based on a condition.
